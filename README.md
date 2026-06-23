@@ -2,7 +2,7 @@ Admin Panel - Full Stack Web Application
 
 A full-stack Admin Dashboard application built using React (Frontend) and Node.js with Express (Backend). This project demonstrates authentication, dashboard UI, CRUD operations, and responsive design.
 
-Features
+### Features
 
 User Authentication (Login System,JWT Authentication,
 Role-based access control)
@@ -14,7 +14,7 @@ Settings Page with Toggle Options
 Responsive design for mobile, tablet, and desktop
 REST API integration between frontend and backend
 
-Tech Stack
+### Tech Stack
 
 Frontend:
 React.js
@@ -29,14 +29,14 @@ Express.js
 Database:
 MongoDB 
 
-Project Structure
+### Project Structure
 
 admin-panel/
 ├── admin-frontend/
 ├── admin-backend/
 └── README.md
 
-Installation & Setup
+### Installation & Setup
 
 1. Clone Repository
 git clone https://github.com/your-username/admin-panel.git
@@ -58,7 +58,7 @@ node server.js
 Backend runs on:
 http://localhost:5000
 
-API Integration
+### API Integration
 
 Frontend communicates with backend using REST APIs for authentication, data fetching, and CRUD operations.
 
@@ -66,7 +66,7 @@ Responsive Design
 
 Works on desktop, tablet, and mobile devices.
 
-Future Improvements
+### Future Improvements
 
 Real-time notifications
 Advanced analytics dashboard

@@ -27,7 +27,7 @@ Node.js
 Express.js
 
 Database:
-MongoDB (if used)
+MongoDB 
 
 Project Structure
 
@@ -45,15 +45,15 @@ cd admin-panel
 2. Frontend Setup
 cd admin-frontend
 npm install
-npm start
+npm run dev
 
 Frontend runs on:
-http://localhost:3000
+http://localhost:5173
 
 3. Backend Setup
 cd admin-backend
 npm install
-npm run dev
+node server.js
 
 Backend runs on:
 http://localhost:5000
